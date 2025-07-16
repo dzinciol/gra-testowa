@@ -2,3 +2,4 @@
 2. stan kodu gry na dzień 30.07
 3. stan kodu gry na dzień 10.08
 4. stan kodu gry na dzień 20.08
+5. stan kodu gry na dzień 25.08
