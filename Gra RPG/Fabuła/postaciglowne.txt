@@ -1,2 +1,2 @@
-1. pierwsza interesujaca postac glowna
-2. druga interesujaca postac glowna
+1. pierwsza interesujaca postac glowna   -------- edycja postaci (zmiana imienia)
+2. druga interesujaca postac glowna     
