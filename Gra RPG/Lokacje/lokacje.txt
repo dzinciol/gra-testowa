@@ -1,3 +1,4 @@
 1. Lokacja nr 1 - miasto
 2. Lokacja nr 2 - wieś
 3. Lokacja nr 3 - zamek
+4. Lokacja nr 4 - siedlisko potworów
